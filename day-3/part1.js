@@ -1,6 +1,3 @@
-const {
-    SSL_OP_MSIE_SSLV2_RSA_PADDING
-} = require('constants');
 const fs = require('fs');
 
 // Read input from input.txt file
