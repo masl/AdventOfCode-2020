@@ -1,6 +1,3 @@
-const {
-    group
-} = require('console');
 const fs = require('fs');
 
 // Read input from input.txt file
